@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AI/End-End%20ML/Kidney-Disease-Classification/mlruns/0/e6cf5e99e9a946a08323bea93eb8607f/artifacts
+end_time: 1698120535591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6cf5e99e9a946a08323bea93eb8607f
+run_name: thoughtful-zebra-765
+run_uuid: e6cf5e99e9a946a08323bea93eb8607f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698120513423
+status: 3
+tags: []
+user_id: ArulMuruganS
